@@ -1,7 +1,7 @@
 
 # Tabular Reinforcement Learning in a Racetrack Environment
 
-This project compares tabular reinforcement learning algorithms : Monte Carlo, Sarsa, and Q-Learning  in a stochastic racetrack environment. It also includes a modified temporal-difference agent that improves learning efficiency over standard Q-Learning.
+This project contains a jupyter that compares tabular reinforcement learning algorithms : Monte Carlo, Sarsa, and Q-Learning  in a stochastic racetrack environment. It also includes a modified temporal-difference agent that improves learning efficiency over standard Q-Learning.
 
 Originally developed as part of the CM50270 Reinforcement Learning module at the University of Bath.  
 The file `racetrack_env.py`, the `.json` files with reference returns, and `track.txt` were provided in the unit.  
